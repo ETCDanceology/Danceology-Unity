@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2012439146201775699
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2012439146201775697}
+  - component: {fileID: 2012439146201775696}
+  - component: {fileID: 813385527}
+  m_Layer: 0
+  m_Name: SFXManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2012439146201775697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2012439146201775699}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2012439146201775696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2012439146201775699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 018d7d45bafa05d489bc2f6d20ae6fa0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CanBeReset: 1
+  sfxDatas:
+  - sfxName: 0
+    sfxClip: {fileID: 8300000, guid: 1fc7f03f8ac5d8941846aceafbfe3429, type: 3}
+    defaultVolume: 0.8
+    defaultPitch: 1
+  - sfxName: 1
+    sfxClip: {fileID: 8300000, guid: 72be74322ea9f1347bd7ae07e32ffbcb, type: 3}
+    defaultVolume: 0.8
+    defaultPitch: 1
+  - sfxName: 2
+    sfxClip: {fileID: 8300000, guid: b26f877ae6e0e8846a6eac97f5c57cbf, type: 3}
+    defaultVolume: 0.8
+    defaultPitch: 1
+  - sfxName: 3
+    sfxClip: {fileID: 8300000, guid: dbbde285f87e73f4e82833d94d66f8e3, type: 3}
+    defaultVolume: 0.8
+    defaultPitch: 1
+  - sfxName: 4
+    sfxClip: {fileID: 8300000, guid: 9668c5d054881654085210e2833af070, type: 3}
+    defaultVolume: 0.498
+    defaultPitch: 1
+  text: {fileID: 0}
+--- !u!114 &813385527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2012439146201775699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2e3c5ac9bdfa4c42a0579351cd85254, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

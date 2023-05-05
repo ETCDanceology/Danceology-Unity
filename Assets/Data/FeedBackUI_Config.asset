@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33c9617114d584647b1050d560ee1629, type: 3}
+  m_Name: FeedBackUI_Config
+  m_EditorClassIdentifier: 
+  feedbackUIs:
+  - word: Miss
+    SFX: 0
+    fontMaterial: {fileID: 11400000, guid: a3ae6e4c9faced24a95c95811bcbc2d7, type: 2}
+  - word: Close
+    SFX: 0
+    fontMaterial: {fileID: 11400000, guid: bbe441831e246cc4d97c3b26bedd6e84, type: 2}
+  - word: OK
+    SFX: 1
+    fontMaterial: {fileID: 11400000, guid: d93d998e8d5d6014d95f3c4660256e94, type: 2}
+  - word: Good
+    SFX: 2
+    fontMaterial: {fileID: 11400000, guid: bc9583844e6946d4c9c2becdd509d31c, type: 2}
+  - word: Great
+    SFX: 3
+    fontMaterial: {fileID: 11400000, guid: 5566468bbc9386347a62f722038dfd67, type: 2}
+  - word: Excellent
+    SFX: 4
+    fontMaterial: {fileID: 11400000, guid: c20dd0598910b1c4e9073661e05c6601, type: 2}

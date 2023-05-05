@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: 5b1e79471698ad14ba474af7190ac746
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BackExercise_AnimatedHalf_Test:mixamorig1:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: EranFinalModel(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackExercise_AnimatedHalf_Test:pasted__EranLow
+      parentName: EranFinalModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 11.763852, y: 11.763852, z: 11.763852}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:Hips
+      parentName: EranFinalModel(Clone)
+      position: {x: -0.000002646719, y: 0.97154975, z: 0.0072364807}
+      rotation: {x: -0.00000002474005, y: -5.79845e-10, z: 0.0000000029958653, w: 1}
+      scale: {x: 100, y: 100.00001, z: 100}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:Spine
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:Hips
+      position: {x: -0, y: 0.00075839326, z: -0.000011200578}
+      rotation: {x: -0.0073837955, y: 0.0000000021724231, z: -0.0000000062657843, w: 0.99997276}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:Spine1
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:Spine
+      position: {x: -0, y: 0.0008848882, z: 0}
+      rotation: {x: 0.000000022351742, y: 0.000000010779781, z: 0.0000000030587464, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:Spine2
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:Spine1
+      position: {x: -0, y: 0.0010113014, z: 0}
+      rotation: {x: 0.0000000018626451, y: 2.8544278e-11, z: -0.000000001932606, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:Neck
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:Spine2
+      position: {x: -0, y: 0.0011377136, z: -1.7316057e-11}
+      rotation: {x: 0.0073837833, y: -0.0000000123754, z: 6.8176786e-10, w: 0.99997276}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:Head
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:Neck
+      position: {x: -0, y: 0.0005049503, z: 0.000042576183}
+      rotation: {x: -0, y: -0.000000006185012, z: 0.0000000030925063, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999976}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:HeadTop_End
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:Head
+      position: {x: -0, y: 0.0024253367, z: 0.00020449857}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightShoulder
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:Spine2
+      position: {x: 0.0004843512, y: 0.0010000124, z: -0.0000013352613}
+      rotation: {x: -0.56300527, y: -0.42737377, z: 0.5645496, w: -0.42621654}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightArm
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:RightShoulder
+      position: {x: -0, y: 0.0010086915, z: -4.564445e-12}
+      rotation: {x: 0.14006148, y: 0.0018066464, z: -0.0127708, w: -0.9900588}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightForeArm
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:RightArm
+      position: {x: -0, y: 0.002181486, z: 0}
+      rotation: {x: -0.022224903, y: 0.00035787967, z: -0.016100585, w: 0.99962336}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000006}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightHand
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:RightForeArm
+      position: {x: -0, y: 0.0029033348, z: -7.878667e-12}
+      rotation: {x: -0.018081838, y: 0.0009125726, z: -0.05039379, w: 0.9985654}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightHandIndex1
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:RightHand
+      position: {x: -0, y: 0.00042961896, z: 1.1609513e-12}
+      rotation: {x: -0.030491535, y: 0.006361615, z: 0.07449586, w: -0.9967348}
+      scale: {x: 1.0000001, y: 1.0000008, z: 1.0000008}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightHandIndex2
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:RightHandIndex1
+      position: {x: -0, y: 0.00022901164, z: 0}
+      rotation: {x: 0.061741494, y: 0.00000015133988, z: 0.00051252556, w: 0.9980921}
+      scale: {x: 0.99999994, y: 1.0000006, z: 1.0000004}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightHandIndex3
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:RightHandIndex2
+      position: {x: 0.00000060314295, y: 0.00035745176, z: -0.00007274632}
+      rotation: {x: -0.0647171, y: -0.009781017, z: -0.0485972, w: 0.9966716}
+      scale: {x: 1, y: 1.0000007, z: 1.0000008}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightHandIndex4
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:RightHandIndex3
+      position: {x: -0.000037426296, y: 0.00026076657, z: -0.0000026436069}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftShoulder
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:Spine2
+      position: {x: -0.0004843512, y: 0.0010000331, z: -0.0000027318322}
+      rotation: {x: 0.5621831, y: -0.42799756, z: 0.56535083, w: 0.42561352}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftArm
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftShoulder
+      position: {x: 1.3265696e-13, y: 0.0010086915, z: -4.562523e-12}
+      rotation: {x: -0.14000669, y: 0.0021338165, z: -0.015088677, w: 0.99003327}
+      scale: {x: 0.9999997, y: 0.9999996, z: 0.9999996}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftForeArm
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftArm
+      position: {x: -0, y: 0.0021815666, z: 0}
+      rotation: {x: -0.022258578, y: -0.00037149637, z: 0.016686153, w: 0.9996129}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHand
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftForeArm
+      position: {x: -0, y: 0.0029033222, z: 1.7600487e-12}
+      rotation: {x: -0.017984927, y: -0.00072422624, z: 0.040234476, w: 0.9990282}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000002}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHandIndex1
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHand
+      position: {x: -0, y: 0.00038097295, z: 0}
+      rotation: {x: 0.029139731, y: 0.0053752917, z: 0.07546716, w: 0.996708}
+      scale: {x: 1, y: 1.0000004, z: 0.99999994}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHandIndex2
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHandIndex1
+      position: {x: -1.7281543e-12, y: 0.00023704136, z: 0}
+      rotation: {x: 0.038571667, y: 0.000000040046853, z: -0.009830506, w: 0.9992075}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000006}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHandIndex3
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHandIndex2
+      position: {x: -0.000014161755, y: 0.000357714, z: -0.000055564444}
+      rotation: {x: -0.022809668, y: 0.0018075894, z: 0.017450605, w: 0.99958587}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000002}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHandIndex4
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftHandIndex3
+      position: {x: 0.000013431424, y: 0.00029830635, z: -0.000013343453}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightUpLeg
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:Hips
+      position: {x: 0.0007573646, y: -0.00042165138, z: -0.000068115965}
+      rotation: {x: 0.00023744046, y: 0.010225753, z: 0.99967825, w: -0.023212444}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightLeg
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:RightUpLeg
+      position: {x: -0, y: 0.0039506173, z: -5.0999122e-12}
+      rotation: {x: -0.023001768, y: -0.000107344546, z: 0.0046654954, w: 0.9997245}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightFoot
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:RightLeg
+      position: {x: 4.4782567e-12, y: 0.0042147306, z: -3.1142474e-12}
+      rotation: {x: 0.44480485, y: -0.0023872792, z: 0.0011856434, w: 0.8956236}
+      scale: {x: 0.9999998, y: 1, z: 0.99999964}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightToeBase
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:RightFoot
+      position: {x: -0, y: 0.0013972496, z: 8.034123e-12}
+      rotation: {x: 0.30423713, y: -0.038745802, z: 0.012385793, w: 0.9517275}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000001}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:RightToe_End
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:RightToeBase
+      position: {x: -0, y: 0.0005343367, z: 1.0106305e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftUpLeg
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:Hips
+      position: {x: -0.0007573646, y: -0.00042165138, z: -0.000076613316}
+      rotation: {x: -0.00031211736, y: 0.013443922, z: 0.9996402, w: 0.02320801}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftLeg
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftUpLeg
+      position: {x: -2.4489143e-12, y: 0.0039512184, z: 0}
+      rotation: {x: -0.032669753, y: 0.00015318744, z: -0.004686303, w: 0.9994552}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.9999999}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftFoot
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftLeg
+      position: {x: -0, y: 0.00421647, z: -1.0915141e-11}
+      rotation: {x: 0.45533413, y: 0.0021248073, z: -0.0010866796, w: 0.8903175}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.9999997}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftToeBase
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftFoot
+      position: {x: -0, y: 0.001416261, z: -1.7048283e-11}
+      rotation: {x: 0.29984245, y: 0.038307726, z: -0.012050981, w: 0.9531432}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000001}
+    - name: BackExercise_AnimatedHalf_Test:mixamorig1:LeftToe_End
+      parentName: BackExercise_AnimatedHalf_Test:mixamorig1:LeftToeBase
+      position: {x: -0, y: 0.000548673, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

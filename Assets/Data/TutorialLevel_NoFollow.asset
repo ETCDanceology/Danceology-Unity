@@ -1,0 +1,2316 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9c40057f70cc994382c5965744dc8cc, type: 3}
+  m_Name: TutorialLevel_NoFollow
+  m_EditorClassIdentifier: 
+  actionList:
+  - tutorialType: 0
+    actionData:
+    - keyFrameType: 21
+      frameCount: 0
+      HintText: 24
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 18
+      frameCount: 0
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 0
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: fe648ed6617c10747b1be6314110236f, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 19
+      frameCount: 540
+      HintText: 10
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 1
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 22
+      frameCount: 1
+      HintText: 10
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 1
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 13
+      frameCount: 1
+      HintText: 10
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 1
+      stopDuration: 2
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 12
+      frameCount: 1
+      HintText: 10
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 1
+      stopDuration: 2
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 17
+      frameCount: 1
+      HintText: 10
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 1
+      stopDuration: 2
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 1
+      HintText: 8
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 1
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 88c74ef3abee3af4fb2226e415a2060f, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 10
+      frameCount: 40
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 88c74ef3abee3af4fb2226e415a2060f, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 17
+      frameCount: 40
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 88c74ef3abee3af4fb2226e415a2060f, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 40
+      HintText: 8
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 40
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: cfcbf99f8786aca449d1439f558b1393, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 10
+      frameCount: 70
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: cfcbf99f8786aca449d1439f558b1393, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 17
+      frameCount: 70
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: cfcbf99f8786aca449d1439f558b1393, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 70
+      HintText: 6
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 70
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 5aba99e29ac5fd349bb85d1ce7b48349, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 6
+      frameCount: 70
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 33
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 23
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 25
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 27
+          relativeDirection: 0
+          relativeDistance: 0.3
+        trailSpeed: 0.5
+      arrowType: 0
+    - keyFrameType: 6
+      frameCount: 70
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 33
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 24
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 26
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 28
+          relativeDirection: 0
+          relativeDistance: 0.3
+        trailSpeed: 0.5
+      arrowType: 0
+    - keyFrameType: 10
+      frameCount: 80
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 5aba99e29ac5fd349bb85d1ce7b48349, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 17
+      frameCount: 80
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 5aba99e29ac5fd349bb85d1ce7b48349, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 80
+      HintText: 8
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 80
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 6553e61a564467642bc371b1eba6e40c, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 6
+      frameCount: 95
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 11
+          relativeDirection: 2
+          relativeDistance: 0.3
+        - positionIndex: 11
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 3
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 1
+          relativeDistance: 0.3
+        - positionIndex: 11
+          relativeDirection: 1
+          relativeDistance: 0.3
+        - positionIndex: 11
+          relativeDirection: 2
+          relativeDistance: 0.3
+        trailSpeed: 0.7
+      arrowType: 1
+    - keyFrameType: 10
+      frameCount: 115
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 6553e61a564467642bc371b1eba6e40c, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 17
+      frameCount: 115
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 6553e61a564467642bc371b1eba6e40c, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 115
+      HintText: 8
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 115
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: f70b1e38e995eea47b824ed0923967ff, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 6
+      frameCount: 150
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 33
+          relativeDirection: 0
+          relativeDistance: 0.5
+        - positionIndex: 33
+          relativeDirection: 5
+          relativeDistance: 1
+        trailSpeed: 0.5
+      arrowType: 1
+    - keyFrameType: 6
+      frameCount: 182
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 12
+          relativeDirection: 3
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 11
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 11
+          relativeDirection: 2
+          relativeDistance: 0.3
+        trailSpeed: 0.7
+      arrowType: 1
+    - keyFrameType: 6
+      frameCount: 205
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 14
+          relativeDirection: 2
+          relativeDistance: 0
+        - positionIndex: 14
+          relativeDirection: 2
+          relativeDistance: 0.5
+        trailSpeed: 0.5
+      arrowType: 0
+    - keyFrameType: 6
+      frameCount: 205
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0.7
+        trailSpeed: 0.5
+      arrowType: 0
+    - keyFrameType: 13
+      frameCount: 205
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 4
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 12
+      frameCount: 205
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 17
+      frameCount: 205
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0.7
+        trailSpeed: 0.5
+      arrowType: 0
+    - keyFrameType: 10
+      frameCount: 205
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: f70b1e38e995eea47b824ed0923967ff, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0.7
+        trailSpeed: 0.5
+      arrowType: 0
+    - keyFrameType: 17
+      frameCount: 205
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: f70b1e38e995eea47b824ed0923967ff, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0.7
+        trailSpeed: 0.5
+      arrowType: 0
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 205
+      HintText: 8
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 205
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 58013ccb21c30b04495c7c67f3ea9379, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 6
+      frameCount: 205
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 231
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 12
+          relativeDirection: 1
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 2
+          relativeDistance: 0.5
+        - positionIndex: 12
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 3
+          relativeDistance: 0.5
+        - positionIndex: 11
+          relativeDirection: 3
+          relativeDistance: 0.3
+        - positionIndex: 11
+          relativeDirection: 1
+          relativeDistance: 0.3
+        trailSpeed: 0.5
+      arrowType: 1
+    - keyFrameType: 13
+      frameCount: 260
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 231
+      stopDuration: 2
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 12
+          relativeDirection: 1
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 2
+          relativeDistance: 0.5
+        - positionIndex: 12
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 3
+          relativeDistance: 0.5
+        - positionIndex: 11
+          relativeDirection: 3
+          relativeDistance: 0.3
+        - positionIndex: 11
+          relativeDirection: 1
+          relativeDistance: 0.3
+        trailSpeed: 0.5
+      arrowType: 1
+    - keyFrameType: 12
+      frameCount: 260
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 231
+      stopDuration: 2
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 12
+          relativeDirection: 1
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 2
+          relativeDistance: 0.5
+        - positionIndex: 12
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 3
+          relativeDistance: 0.5
+        - positionIndex: 11
+          relativeDirection: 3
+          relativeDistance: 0.3
+        - positionIndex: 11
+          relativeDirection: 1
+          relativeDistance: 0.3
+        trailSpeed: 0.5
+      arrowType: 1
+    - keyFrameType: 17
+      frameCount: 260
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 231
+      stopDuration: 2
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 12
+          relativeDirection: 1
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 2
+          relativeDistance: 0.5
+        - positionIndex: 12
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 3
+          relativeDistance: 0.5
+        - positionIndex: 11
+          relativeDirection: 3
+          relativeDistance: 0.3
+        - positionIndex: 11
+          relativeDirection: 1
+          relativeDistance: 0.3
+        trailSpeed: 0.5
+      arrowType: 1
+    - keyFrameType: 10
+      frameCount: 260
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 58013ccb21c30b04495c7c67f3ea9379, type: 3}
+      jumpBackFrame: 231
+      stopDuration: 2
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 12
+          relativeDirection: 1
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 2
+          relativeDistance: 0.5
+        - positionIndex: 12
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 3
+          relativeDistance: 0.5
+        - positionIndex: 11
+          relativeDirection: 3
+          relativeDistance: 0.3
+        - positionIndex: 11
+          relativeDirection: 1
+          relativeDistance: 0.3
+        trailSpeed: 0.5
+      arrowType: 1
+    - keyFrameType: 17
+      frameCount: 260
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 58013ccb21c30b04495c7c67f3ea9379, type: 3}
+      jumpBackFrame: 231
+      stopDuration: 2
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 12
+          relativeDirection: 1
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 2
+          relativeDistance: 0.5
+        - positionIndex: 12
+          relativeDirection: 0
+          relativeDistance: 0.3
+        - positionIndex: 12
+          relativeDirection: 3
+          relativeDistance: 0.5
+        - positionIndex: 11
+          relativeDirection: 3
+          relativeDistance: 0.3
+        - positionIndex: 11
+          relativeDirection: 1
+          relativeDistance: 0.3
+        trailSpeed: 0.5
+      arrowType: 1
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 260
+      HintText: 6
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 260
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 85867c60eef64d744b18defc95893a42, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 6
+      frameCount: 330
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 26
+          relativeDirection: 4
+          relativeDistance: 0.3
+        - positionIndex: 24
+          relativeDirection: 4
+          relativeDistance: 0.2
+        - positionIndex: 34
+          relativeDirection: 4
+          relativeDistance: 0.2
+        - positionIndex: 37
+          relativeDirection: 4
+          relativeDistance: 0.2
+        - positionIndex: 35
+          relativeDirection: 4
+          relativeDistance: 0.2
+        - positionIndex: 35
+          relativeDirection: 3
+          relativeDistance: 0.3
+        trailSpeed: 0.9
+      arrowType: 1
+    - keyFrameType: 10
+      frameCount: 340
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 85867c60eef64d744b18defc95893a42, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0.9
+      arrowType: 1
+    - keyFrameType: 17
+      frameCount: 340
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 85867c60eef64d744b18defc95893a42, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0.9
+      arrowType: 1
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 340
+      HintText: 6
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 340
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: b8b7857c3b588294eb369431a2b3c892, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 10
+      frameCount: 412
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: b8b7857c3b588294eb369431a2b3c892, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 34
+          relativeDirection: 0
+          relativeDistance: 0.5
+        - positionIndex: 25
+          relativeDirection: 0
+          relativeDistance: 0.4
+        trailSpeed: 0.5
+      arrowType: 1
+    - keyFrameType: 17
+      frameCount: 412
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: b8b7857c3b588294eb369431a2b3c892, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 34
+          relativeDirection: 0
+          relativeDistance: 0.5
+        - positionIndex: 25
+          relativeDirection: 0
+          relativeDistance: 0.4
+        trailSpeed: 0.5
+      arrowType: 1
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 412
+      HintText: 8
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 412
+      HintText: 5a
+      tutorialSound: {fileID: 8300000, guid: 1b21e58a697562440a4d87e0e43810cf, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 6
+      frameCount: 458
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 14
+          relativeDirection: 2
+          relativeDistance: 0
+        - positionIndex: 14
+          relativeDirection: 2
+          relativeDistance: 0.5
+        trailSpeed: 0.5
+      arrowType: 0
+    - keyFrameType: 6
+      frameCount: 458
+      HintText: 
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0.7
+        trailSpeed: 0.5
+      arrowType: 0
+    - keyFrameType: 10
+      frameCount: 470
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 1b21e58a697562440a4d87e0e43810cf, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0.7
+        trailSpeed: 0.5
+      arrowType: 0
+    - keyFrameType: 17
+      frameCount: 470
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 1b21e58a697562440a4d87e0e43810cf, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints:
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0
+        - positionIndex: 37
+          relativeDirection: 3
+          relativeDistance: 0.7
+        trailSpeed: 0.5
+      arrowType: 0
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 470
+      HintText: 8
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 470
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 5f0870ef552eb104c86afedba1b5adde, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 10
+      frameCount: 550
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 5f0870ef552eb104c86afedba1b5adde, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 17
+      frameCount: 550
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 5f0870ef552eb104c86afedba1b5adde, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 500
+      HintText: 6
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+  - tutorialType: 1
+    actionData:
+    - keyFrameType: 21
+      frameCount: 550
+      HintText: 8
+      tutorialSound: {fileID: 0}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 4
+      frameCount: 550
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 22c61fe37918dfe438bfb69778362e8c, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 10
+      frameCount: 550
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 22c61fe37918dfe438bfb69778362e8c, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 17
+      frameCount: 550
+      HintText: 
+      tutorialSound: {fileID: 8300000, guid: 22c61fe37918dfe438bfb69778362e8c, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+    - keyFrameType: 21
+      frameCount: 550
+      HintText: 16
+      tutorialSound: {fileID: 8300000, guid: 22c61fe37918dfe438bfb69778362e8c, type: 3}
+      jumpBackFrame: 0
+      stopDuration: 0
+      indicatorLine:
+        indicatorPoints: []
+        trailSpeed: 0
+      arrowType: 0
+  combinationWatchMes:
+  - keyFrameType: 14
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 8
+    frameCount: 0
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 0
+    frameCount: 0
+    HintText: Watch My Movement
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 13
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 2
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 12
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 1
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 15
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  combinationFollowMes:
+  - keyFrameType: 14
+    frameCount: 0
+    HintText: CONTRACT
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 16
+    frameCount: 0
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 0
+    frameCount: 0
+    HintText: Follow My Movement
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 0
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 2950712e118163748bddb4f56ca0d291, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 13
+    frameCount: 0
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 10
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 12
+    frameCount: 0
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 1
+    frameCount: 0
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 15
+    frameCount: 0
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 9
+    frameCount: 0
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 0
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  keyframeTutorialData:
+  - keyFrameType: 21
+    frameCount: 0
+    HintText: 24
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 14
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 8
+    frameCount: 0
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 0
+    frameCount: 0
+    HintText: Watch My Movement
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 13
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 2
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 12
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 1
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 15
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 0
+    HintText: 0
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 0
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: fe648ed6617c10747b1be6314110236f, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 14
+    frameCount: 540
+    HintText: CONTRACT
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 16
+    frameCount: 540
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 0
+    frameCount: 1
+    HintText: Follow My Movement
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 1
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 2950712e118163748bddb4f56ca0d291, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 13
+    frameCount: 1
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 10
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 12
+    frameCount: 1
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 1
+    frameCount: 1
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 15
+    frameCount: 1
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 9
+    frameCount: 1
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 1
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 22
+    frameCount: 1
+    HintText: 10
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 13
+    frameCount: 1
+    HintText: 10
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 2
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 12
+    frameCount: 1
+    HintText: 10
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 2
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 1
+    HintText: 10
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 1
+    stopDuration: 2
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 21
+    frameCount: 1
+    HintText: 8
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 1
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 88c74ef3abee3af4fb2226e415a2060f, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 10
+    frameCount: 40
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 88c74ef3abee3af4fb2226e415a2060f, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 40
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 88c74ef3abee3af4fb2226e415a2060f, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 21
+    frameCount: 40
+    HintText: 8
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 40
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: cfcbf99f8786aca449d1439f558b1393, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 10
+    frameCount: 70
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: cfcbf99f8786aca449d1439f558b1393, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 70
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: cfcbf99f8786aca449d1439f558b1393, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 21
+    frameCount: 70
+    HintText: 6
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 70
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 5aba99e29ac5fd349bb85d1ce7b48349, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 6
+    frameCount: 70
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 33
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 23
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 25
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 27
+        relativeDirection: 0
+        relativeDistance: 0.3
+      trailSpeed: 0.5
+    arrowType: 0
+  - keyFrameType: 6
+    frameCount: 70
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 33
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 24
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 26
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 28
+        relativeDirection: 0
+        relativeDistance: 0.3
+      trailSpeed: 0.5
+    arrowType: 0
+  - keyFrameType: 10
+    frameCount: 80
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 5aba99e29ac5fd349bb85d1ce7b48349, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 80
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 5aba99e29ac5fd349bb85d1ce7b48349, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 21
+    frameCount: 80
+    HintText: 8
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 80
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 6553e61a564467642bc371b1eba6e40c, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 6
+    frameCount: 95
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 11
+        relativeDirection: 2
+        relativeDistance: 0.3
+      - positionIndex: 11
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 3
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 1
+        relativeDistance: 0.3
+      - positionIndex: 11
+        relativeDirection: 1
+        relativeDistance: 0.3
+      - positionIndex: 11
+        relativeDirection: 2
+        relativeDistance: 0.3
+      trailSpeed: 0.7
+    arrowType: 1
+  - keyFrameType: 10
+    frameCount: 115
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 6553e61a564467642bc371b1eba6e40c, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 115
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 6553e61a564467642bc371b1eba6e40c, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 21
+    frameCount: 115
+    HintText: 8
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 115
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: f70b1e38e995eea47b824ed0923967ff, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 6
+    frameCount: 150
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 33
+        relativeDirection: 0
+        relativeDistance: 0.5
+      - positionIndex: 33
+        relativeDirection: 5
+        relativeDistance: 1
+      trailSpeed: 0.5
+    arrowType: 1
+  - keyFrameType: 6
+    frameCount: 182
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 12
+        relativeDirection: 3
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 11
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 11
+        relativeDirection: 2
+        relativeDistance: 0.3
+      trailSpeed: 0.7
+    arrowType: 1
+  - keyFrameType: 6
+    frameCount: 205
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 14
+        relativeDirection: 2
+        relativeDistance: 0
+      - positionIndex: 14
+        relativeDirection: 2
+        relativeDistance: 0.5
+      trailSpeed: 0.5
+    arrowType: 0
+  - keyFrameType: 6
+    frameCount: 205
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0.7
+      trailSpeed: 0.5
+    arrowType: 0
+  - keyFrameType: 13
+    frameCount: 205
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 4
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 12
+    frameCount: 205
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 205
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: d141975341a8e4948afad0ceb6af2f16, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0.7
+      trailSpeed: 0.5
+    arrowType: 0
+  - keyFrameType: 10
+    frameCount: 205
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: f70b1e38e995eea47b824ed0923967ff, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0.7
+      trailSpeed: 0.5
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 205
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: f70b1e38e995eea47b824ed0923967ff, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0.7
+      trailSpeed: 0.5
+    arrowType: 0
+  - keyFrameType: 21
+    frameCount: 205
+    HintText: 8
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 205
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 58013ccb21c30b04495c7c67f3ea9379, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 6
+    frameCount: 205
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 231
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 12
+        relativeDirection: 1
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 2
+        relativeDistance: 0.5
+      - positionIndex: 12
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 3
+        relativeDistance: 0.5
+      - positionIndex: 11
+        relativeDirection: 3
+        relativeDistance: 0.3
+      - positionIndex: 11
+        relativeDirection: 1
+        relativeDistance: 0.3
+      trailSpeed: 0.5
+    arrowType: 1
+  - keyFrameType: 13
+    frameCount: 260
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 231
+    stopDuration: 2
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 12
+        relativeDirection: 1
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 2
+        relativeDistance: 0.5
+      - positionIndex: 12
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 3
+        relativeDistance: 0.5
+      - positionIndex: 11
+        relativeDirection: 3
+        relativeDistance: 0.3
+      - positionIndex: 11
+        relativeDirection: 1
+        relativeDistance: 0.3
+      trailSpeed: 0.5
+    arrowType: 1
+  - keyFrameType: 12
+    frameCount: 260
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 231
+    stopDuration: 2
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 12
+        relativeDirection: 1
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 2
+        relativeDistance: 0.5
+      - positionIndex: 12
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 3
+        relativeDistance: 0.5
+      - positionIndex: 11
+        relativeDirection: 3
+        relativeDistance: 0.3
+      - positionIndex: 11
+        relativeDirection: 1
+        relativeDistance: 0.3
+      trailSpeed: 0.5
+    arrowType: 1
+  - keyFrameType: 17
+    frameCount: 260
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 231
+    stopDuration: 2
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 12
+        relativeDirection: 1
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 2
+        relativeDistance: 0.5
+      - positionIndex: 12
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 3
+        relativeDistance: 0.5
+      - positionIndex: 11
+        relativeDirection: 3
+        relativeDistance: 0.3
+      - positionIndex: 11
+        relativeDirection: 1
+        relativeDistance: 0.3
+      trailSpeed: 0.5
+    arrowType: 1
+  - keyFrameType: 10
+    frameCount: 260
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 58013ccb21c30b04495c7c67f3ea9379, type: 3}
+    jumpBackFrame: 231
+    stopDuration: 2
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 12
+        relativeDirection: 1
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 2
+        relativeDistance: 0.5
+      - positionIndex: 12
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 3
+        relativeDistance: 0.5
+      - positionIndex: 11
+        relativeDirection: 3
+        relativeDistance: 0.3
+      - positionIndex: 11
+        relativeDirection: 1
+        relativeDistance: 0.3
+      trailSpeed: 0.5
+    arrowType: 1
+  - keyFrameType: 17
+    frameCount: 260
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 58013ccb21c30b04495c7c67f3ea9379, type: 3}
+    jumpBackFrame: 231
+    stopDuration: 2
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 12
+        relativeDirection: 1
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 2
+        relativeDistance: 0.5
+      - positionIndex: 12
+        relativeDirection: 0
+        relativeDistance: 0.3
+      - positionIndex: 12
+        relativeDirection: 3
+        relativeDistance: 0.5
+      - positionIndex: 11
+        relativeDirection: 3
+        relativeDistance: 0.3
+      - positionIndex: 11
+        relativeDirection: 1
+        relativeDistance: 0.3
+      trailSpeed: 0.5
+    arrowType: 1
+  - keyFrameType: 21
+    frameCount: 260
+    HintText: 6
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 260
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 85867c60eef64d744b18defc95893a42, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 6
+    frameCount: 330
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 26
+        relativeDirection: 4
+        relativeDistance: 0.3
+      - positionIndex: 24
+        relativeDirection: 4
+        relativeDistance: 0.2
+      - positionIndex: 34
+        relativeDirection: 4
+        relativeDistance: 0.2
+      - positionIndex: 37
+        relativeDirection: 4
+        relativeDistance: 0.2
+      - positionIndex: 35
+        relativeDirection: 4
+        relativeDistance: 0.2
+      - positionIndex: 35
+        relativeDirection: 3
+        relativeDistance: 0.3
+      trailSpeed: 0.9
+    arrowType: 1
+  - keyFrameType: 10
+    frameCount: 340
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 85867c60eef64d744b18defc95893a42, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0.9
+    arrowType: 1
+  - keyFrameType: 17
+    frameCount: 340
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 85867c60eef64d744b18defc95893a42, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0.9
+    arrowType: 1
+  - keyFrameType: 21
+    frameCount: 340
+    HintText: 6
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 340
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: b8b7857c3b588294eb369431a2b3c892, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 10
+    frameCount: 412
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: b8b7857c3b588294eb369431a2b3c892, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 34
+        relativeDirection: 0
+        relativeDistance: 0.5
+      - positionIndex: 25
+        relativeDirection: 0
+        relativeDistance: 0.4
+      trailSpeed: 0.5
+    arrowType: 1
+  - keyFrameType: 17
+    frameCount: 412
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: b8b7857c3b588294eb369431a2b3c892, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 34
+        relativeDirection: 0
+        relativeDistance: 0.5
+      - positionIndex: 25
+        relativeDirection: 0
+        relativeDistance: 0.4
+      trailSpeed: 0.5
+    arrowType: 1
+  - keyFrameType: 21
+    frameCount: 412
+    HintText: 8
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 412
+    HintText: 5a
+    tutorialSound: {fileID: 8300000, guid: 1b21e58a697562440a4d87e0e43810cf, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 6
+    frameCount: 458
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 14
+        relativeDirection: 2
+        relativeDistance: 0
+      - positionIndex: 14
+        relativeDirection: 2
+        relativeDistance: 0.5
+      trailSpeed: 0.5
+    arrowType: 0
+  - keyFrameType: 6
+    frameCount: 458
+    HintText: 
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0.7
+      trailSpeed: 0.5
+    arrowType: 0
+  - keyFrameType: 10
+    frameCount: 470
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 1b21e58a697562440a4d87e0e43810cf, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0.7
+      trailSpeed: 0.5
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 470
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 1b21e58a697562440a4d87e0e43810cf, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints:
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0
+      - positionIndex: 37
+        relativeDirection: 3
+        relativeDistance: 0.7
+      trailSpeed: 0.5
+    arrowType: 0
+  - keyFrameType: 21
+    frameCount: 470
+    HintText: 8
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 470
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 5f0870ef552eb104c86afedba1b5adde, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 10
+    frameCount: 550
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 5f0870ef552eb104c86afedba1b5adde, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 550
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 5f0870ef552eb104c86afedba1b5adde, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 21
+    frameCount: 500
+    HintText: 6
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 21
+    frameCount: 550
+    HintText: 8
+    tutorialSound: {fileID: 0}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 4
+    frameCount: 550
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 22c61fe37918dfe438bfb69778362e8c, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 10
+    frameCount: 550
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 22c61fe37918dfe438bfb69778362e8c, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 17
+    frameCount: 550
+    HintText: 
+    tutorialSound: {fileID: 8300000, guid: 22c61fe37918dfe438bfb69778362e8c, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
+  - keyFrameType: 21
+    frameCount: 550
+    HintText: 16
+    tutorialSound: {fileID: 8300000, guid: 22c61fe37918dfe438bfb69778362e8c, type: 3}
+    jumpBackFrame: 0
+    stopDuration: 0
+    indicatorLine:
+      indicatorPoints: []
+      trailSpeed: 0
+    arrowType: 0
